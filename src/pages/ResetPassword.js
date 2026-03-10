@@ -73,3 +73,5 @@ export default function ResetPassword() {
         </div>
       );
 }
+  <h2>Reset Password Page</h2>
+  console.log("Reset password branch test");
