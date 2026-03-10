@@ -31,7 +31,7 @@ export default function ResetPassword() {
       return (
         <div className="flex items-center justify-center min-h-screen bg-gray-100 p-4">
             <div className="w-full max-w-md bg-white p-8 rounded-xl shadow-xl">
-                <h1 className="text-2xl font-bold text-center mb-4">Reset Password-Mian Branch</h1>
+                <h1 className="text-2xl font-bold text-center mb-4">Reset Password- Feature Branch</h1>
                  <Formik 
 
                  initialValues={initialValues}
