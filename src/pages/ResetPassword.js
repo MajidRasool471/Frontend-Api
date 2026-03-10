@@ -73,3 +73,10 @@ export default function ResetPassword() {
         </div>
       );
 }
+ function ResestPassword() {
+   return (
+    <div>
+        <h2>Reset Password page-Feature Branch</h2>
+    </div>
+   );
+ }
